@@ -34,7 +34,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [piranna/fastify-knexjs](https://github.com/piranna/fastify-knexjs)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|17<br/>Tools used|12/27/23 <br/>Report generated|
+|19<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -144,9 +144,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (7)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (9)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (7)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (9)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -155,7 +155,9 @@ Full tech stack [here](/techstack.md)
 |[@semantic-release/commit-analyzer](https://www.npmjs.com/@semantic-release/commit-analyzer)|v11.0.0|10/13/23|Jesús Leganés-Combarro 'piranna |MIT|N/A|
 |[@semantic-release/github](https://www.npmjs.com/@semantic-release/github)|v9.2.1|10/13/23|Jesús Leganés-Combarro 'piranna |MIT|N/A|
 |[@semantic-release/release-notes-generator](https://www.npmjs.com/@semantic-release/release-notes-generator)|v12.0.0|10/13/23|Jesús Leganés-Combarro 'piranna |MIT|N/A|
+|[husky](https://www.npmjs.com/husky)|v8.0.3|10/13/23|Jesús Leganés-Combarro 'piranna |MIT|N/A|
 |[knex](https://www.npmjs.com/knex)|v3.0.1|10/13/23|Jesús Leganés-Combarro 'piranna |MIT|N/A|
+|[lint-staged](https://www.npmjs.com/lint-staged)|v14.0.1|10/13/23|Jesús Leganés-Combarro 'piranna |MIT|N/A|
 |[tap](https://www.npmjs.com/tap)|v18.5.0|11/09/17|Nicolas Balduzzi |ISC|N/A|
 
 <br/>
